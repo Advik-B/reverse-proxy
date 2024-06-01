@@ -1,1 +1,1 @@
-target_url = 'https://odysee.com'  # Replace with your target URL
+target_url = 'http://odysee.com'  # Replace with your target URL
