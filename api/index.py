@@ -2,7 +2,7 @@ from flask import Flask, request, Response
 import requests
 from flask_cors import CORS
 from diskcache import Cache
-from config import target_url
+from .config import target_url
 
 app = Flask(__name__)
 CORS(app)
