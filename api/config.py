@@ -1,1 +1,1 @@
-target_url = 'https://www.reddit.com'  # Replace with your target URL
+target_url = 'https://old.reddit.com'  # Replace with your target URL
