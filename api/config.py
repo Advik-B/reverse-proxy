@@ -1,1 +1,1 @@
-target_url = 'https://www.youtube.com'  # Replace with your target URL
+target_url = 'https://www.instagram.com'  # Replace with your target URL
